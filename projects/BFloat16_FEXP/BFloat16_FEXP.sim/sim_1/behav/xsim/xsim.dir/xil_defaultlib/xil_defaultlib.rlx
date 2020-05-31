@@ -1,0 +1,14 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/matti/github/GROUP12_bfloat16_FEXP/projects/BFloat16_FEXP/BFloat16_FEXP.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/matti/github/GROUP12_bfloat16_FEXP/projects/BFloat16_FEXP/BFloat16_FEXP.srcs/sim_1/imports/tb/exponential_tb.sv,1590937381,systemVerilog,,,,exponential_tb,,,,,,,,
+C:/Users/matti/github/GROUP12_bfloat16_FEXP/projects/BFloat16_FEXP/BFloat16_FEXP.srcs/sim_1/imports/tb/exponential_tb2.sv,1590937365,systemVerilog,,,,exponential_tb2,,,,,,,,
+C:/Users/matti/github/GROUP12_bfloat16_FEXP/projects/BFloat16_FEXP/BFloat16_FEXP.srcs/sources_1/imports/rtl/exponential_pkg.sv,1590937253,systemVerilog,C:/Users/matti/github/GROUP12_bfloat16_FEXP/projects/BFloat16_FEXP/BFloat16_FEXP.srcs/sim_1/imports/tb/exponential_tb2.sv,C:/Users/matti/github/GROUP12_bfloat16_FEXP/projects/BFloat16_FEXP/BFloat16_FEXP.srcs/sources_1/imports/rtl/exponential_top.sv,,exponential_pkg,,,,,,,,
+C:/Users/matti/github/GROUP12_bfloat16_FEXP/projects/BFloat16_FEXP/BFloat16_FEXP.srcs/sources_1/imports/rtl/exponential_top.sv,1590938076,systemVerilog,,C:/Users/matti/github/GROUP12_bfloat16_FEXP/projects/BFloat16_FEXP/BFloat16_FEXP.srcs/sources_1/imports/rtl/lampFPU_EXP_mul.sv,,exponential_top,,,,,,,,
+C:/Users/matti/github/GROUP12_bfloat16_FEXP/projects/BFloat16_FEXP/BFloat16_FEXP.srcs/sources_1/imports/rtl/lampFPU_EXP_mul.sv,1590937253,systemVerilog,,C:/Users/matti/github/GROUP12_bfloat16_FEXP/projects/BFloat16_FEXP/BFloat16_FEXP.srcs/sources_1/imports/rtl/lampFPU_EXP_top.sv,,lampFPU_EXP_mul,,,,,,,,
+C:/Users/matti/github/GROUP12_bfloat16_FEXP/projects/BFloat16_FEXP/BFloat16_FEXP.srcs/sources_1/imports/rtl/lampFPU_EXP_top.sv,1590937253,systemVerilog,,C:/Users/matti/github/GROUP12_bfloat16_FEXP/projects/BFloat16_FEXP/BFloat16_FEXP.srcs/sources_1/imports/rtl/lampFPU_TAY_addsub.sv,,lampFPU_EXP_top,,,,,,,,
+C:/Users/matti/github/GROUP12_bfloat16_FEXP/projects/BFloat16_FEXP/BFloat16_FEXP.srcs/sources_1/imports/rtl/lampFPU_TAY_addsub.sv,1590937253,systemVerilog,,C:/Users/matti/github/GROUP12_bfloat16_FEXP/projects/BFloat16_FEXP/BFloat16_FEXP.srcs/sources_1/imports/rtl/lampFPU_TAY_mul.sv,,lampFPU_TAY_addsub,,,,,,,,
+C:/Users/matti/github/GROUP12_bfloat16_FEXP/projects/BFloat16_FEXP/BFloat16_FEXP.srcs/sources_1/imports/rtl/lampFPU_TAY_mul.sv,1590937253,systemVerilog,,C:/Users/matti/github/GROUP12_bfloat16_FEXP/projects/BFloat16_FEXP/BFloat16_FEXP.srcs/sources_1/imports/rtl/lampFPU_TAY_top.sv,,lampFPU_TAY_mul,,,,,,,,
+C:/Users/matti/github/GROUP12_bfloat16_FEXP/projects/BFloat16_FEXP/BFloat16_FEXP.srcs/sources_1/imports/rtl/lampFPU_TAY_top.sv,1590937253,systemVerilog,,C:/Users/matti/github/GROUP12_bfloat16_FEXP/projects/BFloat16_FEXP/BFloat16_FEXP.srcs/sim_1/imports/tb/exponential_tb2.sv,,lampFPU_TAY_top,,,,,,,,

@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../BFloat16_FEXP.srcs/sources_1/imports/rtl/exponential_pkg.sv" \
+"../../../../BFloat16_FEXP.srcs/sources_1/imports/rtl/exponential_top.sv" \
+"../../../../BFloat16_FEXP.srcs/sources_1/imports/rtl/lampFPU_EXP_mul.sv" \
+"../../../../BFloat16_FEXP.srcs/sources_1/imports/rtl/lampFPU_EXP_top.sv" \
+"../../../../BFloat16_FEXP.srcs/sources_1/imports/rtl/lampFPU_TAY_addsub.sv" \
+"../../../../BFloat16_FEXP.srcs/sources_1/imports/rtl/lampFPU_TAY_mul.sv" \
+"../../../../BFloat16_FEXP.srcs/sources_1/imports/rtl/lampFPU_TAY_top.sv" \
+"../../../../BFloat16_FEXP.srcs/sim_1/imports/tb/exponential_tb2.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
